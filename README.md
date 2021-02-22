@@ -13,9 +13,9 @@ Effort;Obstacles;Criticism;learn from Success of others
 
 
 |    Title       |    Link        | 
-|Mindset	     |   [Mindset]()  |
-|Markdown	     | [Markdown]()   |
-|Git             |   [Git]()      |
+|Mindset	     |   [Mindset](https://mohammadhammad0796018944.github.io/reading-notes/Mindset.md)  |
+|Markdown	     | [Markdown](https://mohammadhammad0796018944.github.io/reading-notes/markdown1.md)   |
+|Git             |   [Git](https://mohammadhammad0796018944.github.io/reading-notes/Git.md)      |
 
 
 
