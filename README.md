@@ -12,12 +12,13 @@ Effort;Obstacles;Criticism;learn from Success of others
 
 
 
-|    Title       |    Link        | 
-|Mindset	     |   [Mindset](https://mohammadhammad0796018944.github.io/reading-notes/Mindset)  |
-|Markdown	     | [Markdown](https://mohammadhammad0796018944.github.io/reading-notes/markdown1)   |
-|Git             |   [Git](https://mohammadhammad0796018944.github.io/reading-notes/Git)
-      |
-
+|    Title       |                                 Link                                                          | 
+|Mindset	     | [Mindset](https://mohammadhammad0796018944.github.io/reading-notes/Mindset)                   |
+|Markdown	     | [Markdown](https://mohammadhammad0796018944.github.io/reading-notes/markdown1)                |
+|Git             | [Git](https://mohammadhammad0796018944.github.io/reading-notes/Git)                           |
+|Html & CSS      | [Html&CSS](https://mohammadhammad0796018944.github.io/reading-notes/Html & CSS)               |
+|Inroducing CSS  | [InroducingCSS](https://mohammadhammad0796018944.github.io/reading-notes/Inroducing CSS)      |
+|Computer Working| [ComputerWorking](https://mohammadhammad0796018944.github.io/reading-notes/Computer Working)  |
 
 
 # My Name Is Mohammad Hammad;working in account field and my phone is 0796018944
